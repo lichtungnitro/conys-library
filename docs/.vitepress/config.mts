@@ -17,7 +17,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'Dify Introduction', link: '/dify-introduction' }
+          { text: 'Dify Introduction', link: '/dify-introduction' },
+          { text: 'Dify Installation', link: '/dify-installation' }
         ]
       }
     ],
